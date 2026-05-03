@@ -16,6 +16,18 @@
   weight = 10
 
 [[main]]
+  name = "CS"
+  pageRef = "notes/cs"
+  parent = "Notes"
+  weight = 1
+
+[[main]]
+  name = "Maths"
+  pageRef = "notes/maths"
+  parent = "Notes"
+  weight = 2
+
+[[main]]
   name = "Projects"
   pageRef = "projects"
   weight = 20
