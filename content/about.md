@@ -13,19 +13,40 @@ Hi, my name is Yang Qihang (杨启航). I am originally from Chongqing (重庆),
 
 # What are my interests?
 
-My primary interests crrently lie in low-level systems programming, and functional programming paradigms (which is something I am trying hard to learn). 
+My primary interests currently lie in low-level systems programming, and functional programming paradigms (which is something I am trying hard to learn). 
 
 # What is this site for?
 
-I use this site to log my academic progress, document configuration workflows, and track personal projects. Apart from that, I will log precious moments of my life.
 
-I once thought about starting a Wechat official account to ducument all these things, but I realized it wasn't quite suitable. The reason is that I want to write entirely in English, yet few Wechat official accounts run purely in English.
+This site is a living supplement to my formal studies and a digital scrapbook of my life. It includes:
 
-I am bilingual in Chinese and English. In the future, I hope to find time to learn Japanese as well.
+- **Notes**: Practical study companions for CS (languages, theory, tooling) and Mathematics.
+
+- **Projects**: A log of coursework (like my SketchPadX app) and independent technical experiments.
+
+- **Life & Hobbies**: Periodic personal reflections, random thoughts, civil aviation, and English learning.
+
+- **Recommendations (Coming Soon)**: Curated lists of high-quality textbooks and study materials.
+
+I once thought about starting a Wechat official account to document all these things, but I realized it wasn't quite suitable. The reason is that I want to write entirely in English, yet few Wechat official accounts run purely in English.
+
+# Why is the content in English?
+
+Looking toward the future, I have two main aspirations:
+
+- I want to study or live overseas to experience a completely different culture.
+
+- I want to seriously advance my education in Computer Science.
+
+Achieving both of these requires strong English skills, especially since the most in-depth CS literature and documentation are often written entirely in English.
+
+On top of that, I am really into learning languages myself. Immersing myself in English just feels wonderful.
+
+So I don't just treat English as a subject to pass. Instead, I try to maintain my fluency by actively integrating the language into my daily technical reading and projects.
 
 # What are my hobbies?
 
-I am interested in aviation (particularly civil aviation), language learning, caligraphy, etc.
+I am interested in aviation (particularly civil aviation), language learning, calligraphy, etc.
 
 # My contact information
 

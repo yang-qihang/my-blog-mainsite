@@ -28,6 +28,18 @@
   weight = 2
 
 [[main]]
+  name = "Tooling"
+  pageRef = "notes/cs/tooling"
+  parent = "CS"
+  weight = 2
+
+[[main]]
+  name = "Programming"
+  pageRef = "notes/cs/programming"
+  parent = "CS"
+  weight = 1
+
+[[main]]
   name = "Projects"
   pageRef = "projects"
   weight = 20

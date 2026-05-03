@@ -23,6 +23,7 @@ title = "Qihang's Blog"
    bio = "A CS student at BUPT"
    links = [
       { email = "mailto:yangqihang0919@gmail.com" },
+      { gitee = "https://www.gitee.com/yangqihang19" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
