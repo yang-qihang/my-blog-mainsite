@@ -12,32 +12,8 @@
 
 [[main]]
   name = "Notes"
-  pageRef = "notes"
+  url = "https://notes.yangqihang.dev"
   weight = 10
-
-[[main]]
-  name = "CS"
-  pageRef = "notes/cs"
-  parent = "Notes"
-  weight = 1
-
-[[main]]
-  name = "Maths"
-  pageRef = "notes/maths"
-  parent = "Notes"
-  weight = 2
-
-[[main]]
-  name = "Tooling"
-  pageRef = "notes/cs/tooling"
-  parent = "CS"
-  weight = 2
-
-[[main]]
-  name = "Programming"
-  pageRef = "notes/cs/programming"
-  parent = "CS"
-  weight = 1
 
 [[main]]
   name = "Projects"
